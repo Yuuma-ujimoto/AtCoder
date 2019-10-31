@@ -1,2 +1,4 @@
-# AtCorder
-AtCorderで説いた問題を自分用に保存する用
+# AtCoder
+AtCoderで説いた問題を自分用に保存する用
+基本的にpythonでしか解かない
+説けてC問題まで
